@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone , I'm MOIN I.GORIKHAN 
 
 <!--
 **moin-cr7/moin-cr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
