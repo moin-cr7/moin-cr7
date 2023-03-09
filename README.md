@@ -6,8 +6,9 @@
 - 💬 Ask me about Cloud computiing, AWS services
 - 📫 How to reach me: moingorikhancr7@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: while(alive){
-                            
+- ⚡ Fun fact:
+
+                      while(alive){   
                             eat;
                             sleep;
                             code;
