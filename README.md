@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with CI/CD operation, Testing
 - 💬 Ask me about Cloud computiing, AWS services
 - 📫 How to reach me: moingorikhancr7@gmail.com
-- 😄 Pronouns: ...
+- 😄 Linkedin-https://www.linkedin.com/in/moin-gorikhan-870444213
 - ⚡ Fun fact:
 
                       while(alive){   
