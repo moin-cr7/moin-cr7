@@ -1,37 +1,28 @@
-### Hi Everyone , I'm MOIN I.GORIKHAN 
- 🔭 I’m currently working on  Maven,JUnit,AWS - EC2,S3,AWS Amplify
-- 🌱 I’m currently Persueing DevOps course in JSpider
-- 👯 I’m looking to collaborate on Cloud computing Project
-- 🤔 I’m looking for help with CI/CD operation, Testing
-- 💬 Ask me about Cloud computiing, AWS services
-- 📫 How to reach me: moingorikhancr7@gmail.com
-- 😄 Linkedin-https://www.linkedin.com/in/moin-gorikhan-870444213
-- ⚡ Fun fact:
+# Hi Everyone, I'm Moin I. Gorikhan 👋
 
-                      while(alive){   
-                            eat;
-                            sleep;
-                            code;
-                            repeat;
-                            }
+## DevOps Engineer | Cloud & Automation Enthusiast
 
-<!--
-**moin-cr7/moin-cr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working as a DevOps Engineer at FIS
+- 🚀 Working on CI/CD automation using GitHub Actions, Jenkins, Harness, and Docker
+- ☁️ Hands-on experience with AWS services including EC2, S3, IAM, and Cloud-based deployments
+- 🐳 Skilled in Docker containerization and Kubernetes fundamentals
+- ⚙️ Experienced with GitHub, Bitbucket, Linux, Shell Scripting, Helm, and OpenShift
+- 🌱 Currently learning Advanced Kubernetes, Terraform, AI in DevOps, and pursuing CKA certification
+- 📦 Built automated deployment pipelines for containerized applications
+- 📊 Interested in Monitoring, Observability, Infrastructure Automation, and Cloud Native technologies
+- 👯 Looking to collaborate on DevOps, Cloud, and Automation Projects
+- 💬 Ask me about DevOps, CI/CD, Docker, Kubernetes, AWS, GitHub Actions, and Automation
+- 📫 Reach me at: moingorikhancr7@gmail.com
+- 😄 LinkedIn: www.linkedin.com/in/moin-gorikhan-870444213
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on  Maven,JUnit,AWS - EC2,S3,AWS Amplify
-- 🌱 I’m currently Persueing DevOps course in JSpider
-- 👯 I’m looking to collaborate on Cloud computing Project
-- 🤔 I’m looking for help with CI/CD operation, Testing
-- 💬 Ask me about Cloud computiing, AWS services
-- 📫 How to reach me: moingorikhancr7@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: while(alive){
-                            
-                            eat;
-                            sleep;
-                            code;
-                            repeat;
-                            }
--->
+## ⚡ Fun Fact
+
+```java
+while(alive){
+    learn();
+    automate();
+    deploy();
+    repeat();
+}
